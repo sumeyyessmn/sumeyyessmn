@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sümeyye Şişman</h1>
+<h1 align="center">Hi 👋, I'm Sümeyye</h1>
 <h3 align="center">I am an Information Technologies Teacher. I want to be a front-end developer soon.</h3>
 
 - 🌱 I’m currently learning **HTML/CSS/Javascript**
