@@ -5,7 +5,7 @@
 - 📫 How to reach me **sumeyye.ssmn@gmail.com**
 
 # 💫 About Me:
-I am an Information Technologies Teacher. I want to be a front-end developer soon.
+I am an Information Technologies Teacher. I want to be a Web developer.
 
 
 ## 🌐 Socials:
