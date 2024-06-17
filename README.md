@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
 
-- 🌱 I’m currently learning **Java/Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **sumeyye.ssmn@gmail.com**
 
