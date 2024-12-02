@@ -5,7 +5,7 @@
 - 📫 How to reach me **sumeyye.ssmn@gmail.com**
 
 # 💫 About Me:
-I am currently improving myself in the testing field.
+
 
 
 ## 🌐 Socials:
